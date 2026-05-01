@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | Web Dev Student | AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/grace-mueni-797868390" target="_blank">
+ <a href="https://www.linkedin.com/in/grace-mueni-797868390/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:graceymueni6@gmail.com">
@@ -75,7 +75,7 @@
 - [ ] Build & ship 3 public projects
 
 ### 📧 Let's Connect!
-- **💌 Email:** [graceymueni6@gmail.com](graceymueni6@gmail.com)
+- **💌 Email:**(graceymueni6@gmail.com)
 - **LinkedIn:** [www.linkedin.com/in/grace-mueni-797868390]
 - **🌐Portfolio:** (Coming soon..) 
 - 🧠 I'm always open to learning and collaboration!
