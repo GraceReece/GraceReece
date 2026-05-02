@@ -51,7 +51,7 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [IT Talent Hub](https://github.com/GraceReece/YOUR-REPO-LINK)
+### 🔹 [IT Talent Hub](https://github.com/GraceReece/IT-Talent-Hub.git)
 > A platform connecting IT talent with opportunities — my academic capstone project.  
 `PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
