@@ -55,6 +55,12 @@
 > A platform connecting IT talent with opportunities — my academic capstone project.  
 `PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
+### 🔹 [3-Column Card Component](https://github.com/GraceReece/3-column-card-component)
+> A responsive 3-column card UI built while learning CSS Flexbox.  
+
+`HTML` `CSS` `Flexbox` `Google Fonts`
+
+🔗 [Live Demo](https://gracereece.github.io/3-column-card-component/)
 <!-- Add more projects below as you build them -->
 
 ---
