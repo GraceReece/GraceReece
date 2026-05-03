@@ -61,6 +61,15 @@
 `HTML` `CSS` `Flexbox` `Google Fonts`
 
 🔗 [Live Demo](https://gracereece.github.io/3-column-card-component/)
+
+### 🔹 [E-Commerce Product Page](https://github.com/GraceReece/E-commerce-product-page-main)
+> A responsive product page — Frontend Mentor challenge. Practised HTML structure and CSS Flexbox.
+
+`HTML` `CSS` `Flexbox` `Google Fonts`
+
+🔗 [Live Demo](https://gracereece.github.io/E-commerce-product-page-main/)
+
+
 <!-- Add more projects below as you build them -->
 
 ---
