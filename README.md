@@ -92,7 +92,7 @@
 
 ### 📧 Let's Connect!
 - **💌 Email:**(graceymueni6@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/grace-mueni-797868390]
+- **LinkedIn:** [www.linkedin.com/in/grace-mueni]
 - **🌐Portfolio:** (Coming soon..) 
 - 🧠 I'm always open to learning and collaboration!
 
