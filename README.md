@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | Web Dev Student | AI Enthusiast</h3>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/grace-mueni-797868390/" target="_blank">
+ <a href="https://www.linkedin.com/in/grace-mueni" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:graceymueni6@gmail.com">
