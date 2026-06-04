@@ -14,7 +14,7 @@
 
 ## 👩🏾‍💻 About Me
 
-- 🎓 Final-year **IT student at Mount Kenya University** — graduating August 2025
+- 🎓 Final-year **IT student at Mount Kenya University** — graduating August 2026
 - 🤖 Currently on the **PLP Africa AI Safari scholarship**, transitioning into Software Engineering
 - 💡 I'm a **vibe coder** — I learn by building and figuring things out as I go
 
