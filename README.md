@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Grace 👋</h1>
-<h3 align="center">Aspiring Software Developer | Web Dev Student | AI Enthusiast</h3>
+<h3 align="center">Aspiring Software Developer | Web Developer | AI Enthusiast</h3>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/grace-mueni" target="_blank">
@@ -14,8 +14,8 @@
 
 ## 👩🏾‍💻 About Me
 
-- 🎓 Final-year **IT student at Mount Kenya University** — graduating August 2026
-- 🤖 Currently on the **PLP Africa AI Safari scholarship**, transitioning into Software Engineering
+- 🎓 **IT Graduate (Mount Kenya University) — graduating August 2026
+- 🤖 **PLP Africa AI Safari Alumna,
 - 💡 I'm a **vibe coder** — I learn by building and figuring things out as I go
 
 ---
